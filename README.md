@@ -2,7 +2,7 @@
 \*\*An end-to-end player valuation and trade insights project using Python, Excel, and Tableau\*\*
 
 \#\#\# \> 🎯 View the interactive Tableau dashboard here:    
-\> \[🔗 Tableau Public Link\](\#) \*(Replace with your actual URL)\*
+\> \[🔗 Tableau Public Link\](\#) \*(https://public.tableau.com/views/NBAPlayerValue/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)\*
 
 \---
 
